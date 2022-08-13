@@ -1,2 +1,1 @@
-<<<<<<< HEAD
 # Split-landing-page.
